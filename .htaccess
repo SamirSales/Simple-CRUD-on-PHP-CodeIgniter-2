@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond $1 !^(index\.php|system|sitemap\.xml|css|js|img|robots\.txt)
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /codeigniter_2/index.php?$1 [L]
