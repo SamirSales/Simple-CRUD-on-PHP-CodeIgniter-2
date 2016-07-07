@@ -6,7 +6,7 @@ It is a simple CRUD made on the framework CodeIgniter v.2 for beginners on PHP.
 - Create a table named 'user' in the database 'aulas_ci'.
 - Set the table user with: (id name email login password).
 
-# CodeIgniter 2
+## CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 
 For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
