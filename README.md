@@ -1,10 +1,11 @@
 # CRUD-PHP-CI2
 It is a simple CRUD made on the framework CodeIgniter v.2 for beginners on PHP.
 
-## Dependency
+## Instructions
 - Create a database named 'aulas_ci'.
 - Create a table named 'user' in the database 'aulas_ci'.
 - Set the table user with: (id name email login password).
+- Set the file application/config/database.php to link the aplication with the databe.
 
 ## CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)

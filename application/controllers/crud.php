@@ -83,8 +83,8 @@ class Crud extends CI_Controller {
 
 	private function setTitleScreenUsers($title, $screen, $users){
 		$dados = array(
-			'titulo' => $title,
-			'tela' => $screen,
+			'title' => $title,
+			'screen' => $screen,
 			'users' => $users,
 		);
 		$this->load->view('crud', $dados);

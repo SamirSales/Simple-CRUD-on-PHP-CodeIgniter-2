@@ -1,5 +1,5 @@
 <?php
   $this->load->view('includes/header_crud.php');
   $this->load->view('includes/menu.php');
-  if($tela!='') $this->load->view('telas/'.$tela);
+  if($screen!='') $this->load->view('layouts/'.$screen);
   $this->load->view('includes/footer.php');
