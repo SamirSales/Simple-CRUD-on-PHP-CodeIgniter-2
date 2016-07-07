@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://192.168.0.13/codeigniter_2/';
+$config['base_url'] = 'http://localhost/hw-crud-php-ci2/index.php/';
 
 /*
 |--------------------------------------------------------------------------
