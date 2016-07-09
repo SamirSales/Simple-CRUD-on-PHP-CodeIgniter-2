@@ -1,4 +1,4 @@
-# CRUD-PHP-CI2
+# Simple CRUD on PHP
 It is a simple CRUD made on the framework CodeIgniter v.2 for beginners on PHP.
 
 ## Instructions
