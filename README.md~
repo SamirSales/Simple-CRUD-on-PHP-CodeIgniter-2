@@ -1,8 +1,11 @@
 # Simple CRUD on PHP
 It is a too simple CRUD made in MySQL using the framework CodeIgniter v2 for beginning students of PHP.
 
-## Print Screen
-![Print](print_crud.png)
+## Instructions
+- Create a database named 'aulas_ci'.
+- Create a table named 'user' in the database 'aulas_ci'.
+- Set the table user with: (id name email login password).
+- Set the file application/config/database.php to link the aplication with the database.
 
 ## CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
